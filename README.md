@@ -1,6 +1,11 @@
 # t2p
 
-A new Flutter project.
+A task app. fetch data from api and display in homepage.
+<br><br>
+![splash screen](https://github.com/RaghvShukla/task1-t2p/blob/master/images/Screenshot_20211030-080911.png)
+![login](https://github.com/RaghvShukla/task1-t2p/blob/master/images/Screenshot_20211030-080914.png)
+![register](https://github.com/RaghvShukla/task1-t2p/blob/master/images/Screenshot_20211030-080917.png)
+![homepage](https://github.com/RaghvShukla/task1-t2p/blob/master/images/Screenshot_20211030-080937.png)
 
 ## Getting Started
 
