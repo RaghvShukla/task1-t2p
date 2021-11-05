@@ -1,6 +1,8 @@
 # t2p
 
-A task app. fetch data from api and display in homepage.
+A task app. <br>
+fetch data from api and display in homepage.<br>
+[apk file link](https://drive.google.com/file/d/10wWIU2Dwgd84ByDATWvkGKvGwX3XmGIq/view?usp=sharing)
 <br><br>
 ![splash screen](https://github.com/RaghvShukla/task1-t2p/blob/master/images/Screenshot_20211030-080911.png)
 ![login](https://github.com/RaghvShukla/task1-t2p/blob/master/images/Screenshot_20211030-080914.png)
